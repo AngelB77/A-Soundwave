@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #2F303A;
+};
+.main-left {
+    flex: 1rem;
+}
+.imagen {
+    max-width: 10px;
+};
+.main-right {
+    flex: 1rem;
+    align-items: center;
+};
+.h1 {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+};
+.p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+};
+.button:Join Now {
+    padding: 0.7rem;
+}; 

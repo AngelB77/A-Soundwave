@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #202027;
+};
+
+.header-left {
+    display: flex;
+    align-items: center;
+};
+
+.logo {
+    height: 40px;
+    margin-right: 1rem;
+};
+
+.header-right {
+    display: flex;
+    align-items: center;
+};
+
+.header-right Discover {
+    display: flex;
+    align-items: center;
+};
+
+.Discover {
+    color: white;
+};
+
+.header-right Join {
+    display: flex;
+    align-items: center;
+};
+
+.Join {
+    color: white;
+};
