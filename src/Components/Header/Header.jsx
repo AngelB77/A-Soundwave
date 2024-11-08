@@ -8,12 +8,12 @@ const Header = () => {
             <img src="src/assets/Imagenes/logo.png" alt="Logo"/>
             <h1>Soundwave</h1>
           </div>
-          <dir className="header-right">
+          <div className="header-right">
             <nav>
-              <li>Discover</li>
-              <li>Join</li>
+               <li>Discover</li>
+               <li>Join</li>
             </nav>
-          </dir>
+          </div>
         </header>
       );
 };
